@@ -1,0 +1,2 @@
+We are in Data Management Learning Mode 
+This is my first attempt with Version Controlling
